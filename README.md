@@ -30,7 +30,7 @@ The objective of this analysis is to evaluate and enhance sales performance by i
 The goal of this project is to develop a dynamic and insightful Power BI dashboard that monitors, evaluates, and compares sales performance across different time periods, regions, and product categories. By transforming raw sales data into actionable insights, the dashboard aims to support data-driven decision-making, identify growth opportunities, and highlight areas requiring strategic focus.
 
 ## Dataset Overview
-
+[Click here to view/download the dataset](./Sales_Performance_Dataset.xlsx)
 
 ## Data Cleaning and Preparation
 - Extracted Month and Year columns from the original Date field for filtering and comparison. (Month was formatted as 3-letter abbreviations for readability.)
